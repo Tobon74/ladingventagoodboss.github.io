@@ -1,0 +1,23 @@
+{
+  "name": "ladingventagoodboss.github.io",
+  "version": "1.0.0",
+  "description": "pagina de venta de prorductos parea caballero\r productos realizado por artesanos mexicanos\r falta el despliegue de la pagina \r pregunta como volver una pagina tu proyecto \r revisa tu scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tobon74/ladingventagoodboss.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tobon74/ladingventagoodboss.github.io/issues"
+  },
+  "homepage": "https://github.com/Tobon74/ladingventagoodboss.github.io#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
